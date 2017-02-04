@@ -1,2 +1,2 @@
 # Color-Game
-RGB color guessing game using JavaScript, HTML, CSS and DOM Manipulation
+RGB color guessing game using JavaScript, HTML, CSS and DOM Manipulation: After loading the page, it will display 6 differnet colors and one of those 6 color will be present in RGB code. The game is to pic correct color. If user will select any wrong color, it will display 'try again'. If it is correct all 6 squares will be changed to that color and it will display 'correct'. If user will click on 'play again': it will generate 6 random colors. Difficulty level can also be modified: Easy level will display 3 colors, Hard level will display 6 colors.
